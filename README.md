@@ -5,11 +5,11 @@ My dream retirement gig is opening a shop that sells surfing equipment and ice c
 
 ## Results
 ### Statistics
-**Table 1:** Statistics for temperatures in June.
+**Table 1:** Statistics for June.
 
 ![June-temps](Resources/june.png)
 
-**Table 2:** Statistics for temperatures in December.
+**Table 2:** Statistics for December.
 
 ![December-temps](Resources/december.png)
 
